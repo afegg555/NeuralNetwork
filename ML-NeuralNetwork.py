@@ -1,4 +1,5 @@
 #NeuralNetwork.py
+#There was a step before this NeuralNetwork Module
 import tensorflow as tf
 import pickle
 import numpy as np
